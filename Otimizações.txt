@@ -1,0 +1,23 @@
+header fixo
+glass effect no header
+resume area karhdo.dev com opção de baixar pdf
+footer do karhdo
+aba de comentário com giscus
+projects com imagem
+talvez header do projects fixo
+opcao de mudar idioma
+enscribe header style
+post style and searchbar on posts
+better home
+wallpaper like lexblog
+dalelarroder smooth scroll
+maybe font
+spotify top songs
+spotify current playing
+smooth transition
+about timeline
+sublinhado que grifa
+what i use
+configs
+scrips
+light and dark theme transition
